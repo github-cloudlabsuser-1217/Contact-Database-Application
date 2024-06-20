@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appName": {
-            "value": "ContactDatabase"
+            "value": "contactdatabase11"
         },
         "location": {
             "value": "Boston"
